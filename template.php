@@ -58,7 +58,7 @@
 				$('.question').show();
 				$('.award, .show-answer').show();
 				// Setup question text
-				$('.question .text').text($(this).data('question'));
+				$('.question .text').html($(this).data('question'));
 				// Create buttons for score keeping.
 				$('.award').click('click', function() {
 					var score = $('.' + $(this).data('player') + '-score');
@@ -77,7 +77,7 @@
 				// Create button for when no one gets it
 				$('.show-answer').one('click', function() {
 					$('.award, .show-answer').off('click').hide();
-					$('.question .text').text(answer)
+					$('.question .text').html(answer)
 						.one('click', function() {
 							$('.question').hide();
 						});
@@ -120,8 +120,8 @@
 						<?php $data = $game['categories'][$col]['questions'][$row]; ?>
 						<?php $class = ($dailyDouble === $row . $col) ? 'tile dd' : 'tile' ?>
 						<td class="<?php echo $class ?>" data-points="<?php echo $points ?>"
-							data-question="<?php echo htmlentities($data['question'], ENT_QUOTES, 'UTF-8'); ?>"
-							data-answer="<?php echo htmlentities($data['answer'], ENT_QUOTES, 'UTF-8'); ?>">$<?php echo $points ?></td>
+							data-question="<?php echo $data['question']; ?>"
+							data-answer="<?php echo $data['answer']; ?>">$<?php echo $points ?></td>
 					<?php endfor ?>
 				</tr>
 			<?php endfor; ?>

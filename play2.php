@@ -1,4 +1,4 @@
 <?php
 
-$game = include 'round1.php';
+$game = include 'round2.php';
 include 'template.php';

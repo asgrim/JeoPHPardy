@@ -71,7 +71,7 @@
 					'answer'   => 'What is Ingersoll?',
 				],
 				[
-					'question' => 'This law, passed in 2009, officially defines saying sorry as sympathy or regret, and not as an admission of guilt.',
+					'question' => 'This Canadian law, passed in 2009, officially defines saying sorry as sympathy or regret, and not as an admission of guilt.',
 					'answer'   => 'What is The Apology Act, 2009?',
 				],
 			]

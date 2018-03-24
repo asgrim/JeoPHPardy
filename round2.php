@@ -77,27 +77,27 @@
 			]
 		],
 		[
-			'name' => '',
+			'name' => 'TESTMORE',
 			'questions' => [
 				[
-					'question' => '',
-					'answer'   => '',
+					'question' => 'This popular behavioral testing tool uses a language that can\'t be put on your sandwhiches.',
+					'answer'   => 'What is Behat?',
 				],
 				[
-					'question' => '',
-					'answer'   => '',
+					'question' => 'This major version of PHPUnit was first released last month, dropping support for PHP 7.0',
+					'answer'   => 'What is PHPUnit 7?',
 				],
 				[
-					'question' => '',
-					'answer'   => '',
+					'question' => 'This mutation testing tool can help you test that your tests are testing.',
+					'answer'   => 'What is Infection PHP?',
 				],
 				[
-					'question' => '',
-					'answer'   => '',
+					'question' => 'This static analyzer from Etsy, can find code bugs without actually testing.',
+					'answer'   => 'What is Phan?',
 				],
 				[
-					'question' => '',
-					'answer'   => '',
+					'question' => 'This Grumpy book will teach you all about Chris\' concept of "Meta Testing".',
+					'answer'   => 'What is Minimum Viable Tests?',
 				],
 			]
 		],
@@ -113,8 +113,8 @@
 					'answer'   => 'What is deck repair?',
 				],
 				[
-					'question' => 'Sara Golemon works for this company by day, while releasing PHP 7.2 (and sometimes 7.1) by night.',
-					'answer'   => 'What is MongoDB?',
+					'question' => 'Symfony 4 has increased its minimum PHP version to this.',
+					'answer'   => 'What is PHP 7.1.3?',
 				],
 				[
 					'question' => 'Elizabeth Smith included references to this layer of the PHP runtime, then set about designing their replacement during a breakout session.',

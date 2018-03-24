@@ -59,7 +59,7 @@
 					'answer'   => 'What is Amsterdam PHP?',
 				],
 				[
-					'question' => 'This PHP conference, which took place a few months ago in Las Vegas, produced teal elePHPants to celebrate PHP 7.',
+					'question' => 'This PHP conference, which takes place in Las Vegas in the fall, most recently produced elePHPants made from denim.',
 					'answer'   => 'What is ZendCon?',
 				],
 				[
@@ -67,11 +67,11 @@
 					'answer'   => 'What is php[architect]?',
 				],
 				[
-					'question' => 'This Canadian conference commissioned an order of wooly mammoth elePHPants, which recently finished production.',
+					'question' => 'This Canadian conference commissioned an order of wooly mammoth elePHPants.',
 					'answer'   => 'What is True North PHP?',
 				],
 				[
-					'question' => 'This polyglot conference, which is hosted in Montreal, is producing white elePHPants for its attendees this year.',
+					'question' => 'This polyglot conference, which is hosted in Montreal, is produces white elePHPants.',
 					'answer'   => 'What is Confoo?',
 				],
 			]
@@ -80,7 +80,7 @@
 			'name' => 'Conference Curiosities',
 			'questions' => [
 				[
-					'question' => 'This Ontariou landmark built in 1872 forms the picturesque country setting for the inaugural GrumpyConf.',
+					'question' => 'This Ontario landmark built in 1872 forms the picturesque country setting for the inaugural GrumpyConf.',
 					'answer'   => 'What is Elm Hurst Inn and Spa?',
 				],
 				[

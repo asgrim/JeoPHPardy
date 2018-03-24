@@ -46,13 +46,13 @@
 					'answer'   => 'What is ArrayIterator?',
 				],
 				[
-					'question' => 'This is the longest class name among SPL\'s iterator classes.',
-					'answer'   => 'What is RecursiveCallbackFilterIterator?',
+					'question' => 'This iterator iterates recursive iterators so you can iterate while you iterate.',
+					'answer'   => 'What is RecursiveIteratorIterator?',
 				],
 			]
 		],
 		[
-			'name' => 'Canada, eh?',
+			'name' => 'Canada',
 			'questions' => [
 				[
 					'question' => 'This language is the second most popular spoken language in Canada?',
@@ -63,7 +63,7 @@
 					'answer'   => 'What is Ottowa?',
 				],
 				[
-					'question' => 'This 91 year old British woman is Canada’s head of state',
+					'question' => 'This 91 year old British woman of German descent is Canada’s head of state',
 					'answer'   => 'Who is Queen Elizabeth II?',
 				],
 				[
@@ -71,7 +71,7 @@
 					'answer'   => 'What is Ingersoll?',
 				],
 				[
-					'question' => 'This Canadian law, passed in 2009, officially defines saying sorry as sympathy or regret, and not as an admission of guilt.',
+					'question' => 'This law, passed in 2009, officially defines saying sorry as sympathy or regret, and not as an admission of guilt.',
 					'answer'   => 'What is The Apology Act, 2009?',
 				],
 			]

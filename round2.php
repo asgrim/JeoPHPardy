@@ -96,7 +96,7 @@
 					'answer'   => 'What is Phan?',
 				],
 				[
-					'question' => 'This Grumpy book will teach you all about Chris\' concept of "Meta Testing".',
+					'question' => 'This Grumpy book will teach you all about Chris\' concept of &quot;Meta Testing&quot;.',
 					'answer'   => 'What is Minimum Viable Tests?',
 				],
 			]

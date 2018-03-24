@@ -52,7 +52,7 @@
 			]
 		],
 		[
-			'name' => 'Canada',
+			'name' => 'Canada, eh?',
 			'questions' => [
 				[
 					'question' => 'This language is the second most popular spoken language in Canada?',

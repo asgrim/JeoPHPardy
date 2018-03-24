@@ -93,7 +93,7 @@
 				],
 				[
 					'question' => 'This year was the year of the inaugural TrueNorthPHP conference.',
-					'answer'   => 'What is 2011?',
+					'answer'   => 'What is 2012?',
 				],
 				[
 					'question' => 'This large room served as the location for organised talks at GrumpyConf',
@@ -113,7 +113,7 @@
 					'answer'   => 'Who is the Internet Widow?',
 				],
 				[
-					'question' => 'This framework leader also is a pioneer of at least two PSRs',
+					'question' => 'This popular framework leader was also involved, at varying degrees, with the creation of five PSRs',
 					'answer'   => 'Who is Matthew Weier O’Phinney?',
 				],
 				[

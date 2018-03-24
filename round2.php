@@ -46,8 +46,8 @@
 					'answer'   => 'What is ArrayIterator?',
 				],
 				[
-					'question' => 'This iterator iterates recursive iterators so you can iterate while you iterate.',
-					'answer'   => 'What is RecursiveIteratorIterator?',
+					'question' => 'This is the longest class name among SPL\'s iterator classes.',
+					'answer'   => 'What is RecursiveCallbackFilterIterator?',
 				],
 			]
 		],
@@ -63,7 +63,7 @@
 					'answer'   => 'What is Ottowa?',
 				],
 				[
-					'question' => 'This 91 year old British woman of German descent is Canada’s head of state',
+					'question' => 'This 91 year old British woman is Canada’s head of state',
 					'answer'   => 'Who is Queen Elizabeth II?',
 				],
 				[
@@ -102,27 +102,27 @@
 			]
 		],
 		[
-			'name' => '',
+			'name' => 'Paying Attention',
 			'questions' => [
 				[
-					'question' => '',
-					'answer'   => '',
+					'question' => 'Lorna Mitchell took us on a road trip through this country.',
+					'answer'   => 'What is Database Country?',
 				],
 				[
-					'question' => '',
-					'answer'   => '',
+					'question' => 'Matthew Weier O\'Phinney began his presentation on middleware by discussing this home improvement project.',
+					'answer'   => 'What is deck repair?',
 				],
 				[
-					'question' => '',
-					'answer'   => '',
+					'question' => 'Sara Golemon works for this company by day, while releasing PHP 7.2 (and sometimes 7.1) by night.',
+					'answer'   => 'What is MongoDB?',
 				],
 				[
-					'question' => '',
-					'answer'   => '',
+					'question' => 'Elizabeth Smith included references to this layer of the PHP runtime, then set about designing their replacement during a breakout session.',
+					'answer'   => 'What are I/O Streams?',
 				],
 				[
-					'question' => '',
-					'answer'   => '',
+					'question' => 'This presentation, by Moses Ngone, delved into IoT devices.',
+					'answer'   => 'What is Developing Beyond the Web?',
 				],
 			]
 		],
